@@ -17,7 +17,12 @@ Focused on NLP, automation, and real-world applications
 
 ##  Tech Stack
 
-Python • Machine Learning • NLP • Streamlit • Git
+Python @ C @ SQL @ JavaScript
+NumPy @ Pandas @ Matplotlib @ Seaborn @ Scikit-learn
+NLTK @ PyTorch (basic) @ Transformers
+HTML @ CSS @ JavaScript
+Git @ GitHub @ Streamlit @ FastAPI
+Power BI @ VS Code @ PyCharm @ Jupyter @ Google Colab
 
 ##  Connect
 
