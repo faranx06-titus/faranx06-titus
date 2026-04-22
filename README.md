@@ -17,11 +17,28 @@ Focused on NLP, automation, and real-world applications
 
 ##  Tech Stack
 
-## 🔧 Tech Stack
+##  Tech Stack
 
-![Tech](https://skillicons.dev/icons?i=python,c,js,html,css,fastapi,pytorch,git,github,vscode,pycharm)
+### Languages
 
-NumPy @ Pandas @ Matplotlib @ Seaborn @ Scikit-learn @ NLTK @ Transformers @ Streamlit @ Power BI @ Jupyter @ Colab @ SQL
+![Languages](https://skillicons.dev/icons?i=python,c,js,html,css)
+Python • C • JavaScript • HTML • CSS • SQL
+
+###  Data Science & ML
+
+![ML](https://skillicons.dev/icons?i=pytorch)
+NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • NLTK • Transformers • PyTorch (basic)
+
+###  Frameworks & Tools
+
+![Tools](https://skillicons.dev/icons?i=fastapi,git,github,streamlit)
+FastAPI • Streamlit • Git • GitHub
+
+### Platforms & IDEs
+
+![IDEs](https://skillicons.dev/icons?i=vscode,pycharm)
+VS Code • PyCharm • Jupyter • Google Colab • Power BI
+
 
 ##  Connect
 
