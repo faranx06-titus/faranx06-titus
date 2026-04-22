@@ -15,7 +15,6 @@ Focused on NLP, automation, and real-world applications
 * AI for Business
 * Product Building & Startups
 
-##  Tech Stack
 
 ##  Tech Stack
 
