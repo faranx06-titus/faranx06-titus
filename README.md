@@ -17,12 +17,11 @@ Focused on NLP, automation, and real-world applications
 
 ##  Tech Stack
 
-Python @ C @ SQL @ JavaScript
-NumPy @ Pandas @ Matplotlib @ Seaborn @ Scikit-learn
-NLTK @ PyTorch (basic) @ Transformers
-HTML @ CSS @ JavaScript
-Git @ GitHub @ Streamlit @ FastAPI
-Power BI @ VS Code @ PyCharm @ Jupyter @ Google Colab
+## 🔧 Tech Stack
+
+![Tech](https://skillicons.dev/icons?i=python,c,js,html,css,fastapi,pytorch,git,github,vscode,pycharm)
+
+NumPy @ Pandas @ Matplotlib @ Seaborn @ Scikit-learn @ NLTK @ Transformers @ Streamlit @ Power BI @ Jupyter @ Colab @ SQL
 
 ##  Connect
 
