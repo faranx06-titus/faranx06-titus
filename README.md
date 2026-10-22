@@ -7,7 +7,7 @@ I'm interested in how software can make complex ideas easier to understand and i
 ## What I'm Exploring
 
 - **AI & Machine Learning** — learning the fundamentals and experimenting with practical applications.
-- **NLP & Deep Learning** — exploring text processing, language models, and neural networks.
+- **Deep Learning & Computer Vision** —  language models, and neural networks.
 - **Interactive Engineering Systems** — working on PECTEN, an early-stage project exploring how static engineering diagrams can become interactive.
 - **Software Development** — learning how to build, test, and connect models with usable applications.
 
