@@ -49,6 +49,6 @@ VS Code · Jupyter Notebook · Google Colab · PyCharm
 ## Connect
 
 - **GitHub:** [@faranx06-titus](https://github.com/faranx06-titus)
-- **LinkedIn:** [Add your LinkedIn profile](https://www.linkedin.com/in/farhan-d-b56a14407/)
+- **LinkedIn:** [LinkedIn profile](https://www.linkedin.com/in/farhan-d-b56a14407/)
 
 *Learning by exploring, experimenting, and building.*
