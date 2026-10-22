@@ -1,40 +1,54 @@
-# Hi, I'm Faran 👋
+# Hi, I'm Farhan 👋
 
-Aspiring startup founder building AI solutions for business problems
-Focused on NLP, automation, and real-world applications
+CS undergraduate exploring AI, machine learning, and interactive engineering systems.
 
-##  What I’m Working On
+I'm interested in how software can make complex ideas easier to understand and interact with. I learn by experimenting, building small projects, and figuring things out along the way.
 
-* AI-powered tools for business workflows
-* NLP-based products and systems
-* Scalable backend + ML integration
+## What I'm Exploring
 
-##  Interests
+- **AI & Machine Learning** — learning the fundamentals and experimenting with practical applications.
+- **NLP & Deep Learning** — exploring text processing, language models, and neural networks.
+- **Interactive Engineering Systems** — working on PECTEN, an early-stage project exploring how static engineering diagrams can become interactive.
+- **Software Development** — learning how to build, test, and connect models with usable applications.
 
-* Natural Language Processing
-* AI for Business
-* Product Building & Startups
+## Projects
 
+### PECTEN — Circuit Analysis Prototype
+Exploring how electrical circuit diagrams can be interpreted and analyzed through software. The current prototype focuses on basic circuit analysis and calculations.
 
-##  Tech Stack
+### NLP Toolkit
+A collection of small NLP applications, including sentiment analysis, spam classification, keyword extraction, and text summarization.
 
-### Languages
+### AI Interview Analyzer
+An experimental application combining speech transcription, sentiment analysis, and audio features to analyze interview responses.
 
-Python • C • JavaScript • HTML • CSS • SQL
+### Recommendation System
+A content-based recommendation application exploring similarity-based methods to suggest relevant items.
 
-###  Data Science & ML
+## Tech Stack
 
-NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • NLTK • Transformers • PyTorch (basic)
+**Languages**
+Python · C · C++ · JavaScript · SQL · HTML · CSS
 
-###  Frameworks & Tools
+**Machine Learning & Data Science**
+NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · NLTK · Transformers · PyTorch (basic)
 
-FastAPI • Streamlit • Git • GitHub
+**Frameworks & Tools**
+FastAPI · Streamlit · Git · GitHub · Power BI
 
-### Platforms & IDEs
+**Development Environment**
+VS Code · Jupyter Notebook · Google Colab · PyCharm
 
-VS Code • PyCharm • Jupyter • Google Colab • Power BI
+## Currently Learning
 
+- Machine learning and deep learning fundamentals
+- NLP and language model applications
+- Data structures and algorithms
+- Software engineering and project development
 
-##  Connect
+## Connect
 
-* GitHub: https://github.com/faranx06-titus
+- **GitHub:** [@faranx06-titus](https://github.com/faranx06-titus)
+- **LinkedIn:** [Add your LinkedIn profile](https://www.linkedin.com/in/farhan-d-b56a14407/)
+
+*Learning by exploring, experimenting, and building.*
